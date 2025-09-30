@@ -23,4 +23,4 @@ Solidity • Rust • Hyperledger Fabric • Algorand • ICP
 I file minimal repros, fix docs, and publish tiny utilities. See my contributions → [github.com/siddharthsudhir?tab=overview](https://github.com/siddharthsudhir?tab=overview)
 
 **Contact**  
-🌐 [HazeEdge](https://www.hazeedge.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/your-handle) &nbsp;|&nbsp; 📫 siddharthsudhir@users.noreply.github.com
+🌐 [HazeEdge](https://www.hazeedge.com) &nbsp;|&nbsp; 💼 [LinkedIn](www.linkedin.com/in/siddharth-sudhir-76865a167) &nbsp;|&nbsp; 📫 siddharthsudhir@users.noreply.github.com
