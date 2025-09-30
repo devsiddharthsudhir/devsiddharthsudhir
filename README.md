@@ -16,6 +16,8 @@ Blockchain & AI engineer building production systems at **HazeEdge**. I work acr
 **Tech stack**  
 Node/Nest • React 18 • PostgreSQL • Redis • Docker • Prisma • Jest  
 Solidity • Rust • Hyperledger Fabric • Algorand • ICP
+![CI](https://img.shields.io/badge/CI-passing-brightgreen)
+
 
 **Open source & learning**  
 I file minimal repros, fix docs, and publish tiny utilities. See my contributions → [github.com/siddharthsudhir?tab=overview](https://github.com/siddharthsudhir?tab=overview)
