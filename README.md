@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I’m Siddharth Sudhir
 
-<!--
-**devsiddharthsudhir/devsiddharthsudhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About**  
+Blockchain & AI engineer building production systems at **HazeEdge**. I work across Node/Nest, React, Postgres, and smart contracts (Hyperledger, Algorand, ICP).
 
-Here are some ideas to get you started:
+**Current**  
+- Shipping **SoulSem** (mobile-first dating app) – API gateway + auth + recsys  
+- Exploring **Hyperledger Fabric** asset flows & **Algorand** contracts  
+- Writing small AI services for matching & recommendations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Highlights**  
+- **Auth & Identity Service**: JWT/refresh, OTP, social login; 95% test coverage  
+- **API Gateway + Mobile BFF**: rate limiting, request shaping; cut p95 latency by ~30%  
+- **ICP Full-stack**: Rust canister + React; one-command local deploy
+
+**Tech stack**  
+Node/Nest • React 18 • PostgreSQL • Redis • Docker • Prisma • Jest  
+Solidity • Rust • Hyperledger Fabric • Algorand • ICP
+
+**Open source & learning**  
+I file minimal repros, fix docs, and publish tiny utilities. See my contributions → [github.com/siddharthsudhir?tab=overview](https://github.com/siddharthsudhir?tab=overview)
+
+**Contact**  
+🌐 hazeedge.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/your-handle) &nbsp;|&nbsp; 📫 siddharthsudhir@users.noreply.github.com
