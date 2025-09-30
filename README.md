@@ -1,5 +1,7 @@
 # Hi, I’m Siddharth Sudhir
 
+![CI](https://img.shields.io/badge/CI-passing-brightgreen)
+
 **About**  
 Blockchain & AI engineer building production systems at **HazeEdge**. I work across Node/Nest, React, Postgres, and smart contracts (Hyperledger, Algorand, ICP).
 
@@ -16,7 +18,6 @@ Blockchain & AI engineer building production systems at **HazeEdge**. I work acr
 **Tech stack**  
 Node/Nest • React 18 • PostgreSQL • Redis • Docker • Prisma • Jest  
 Solidity • Rust • Hyperledger Fabric • Algorand • ICP
-![CI](https://img.shields.io/badge/CI-passing-brightgreen)
 
 
 **Open source & learning**  
